@@ -1,11 +1,11 @@
-# 🏓 DQN Pong Agent (PyTorch)
+#  DQN Pong Agent (PyTorch)
 
 This project trains a Deep Q-Network (DQN) to play **Pong** using a Convolutional Neural Network (CNN) and experience replay.  
 The agent learns by watching the game frames, taking actions, collecting rewards, and improving step-by-step over many episodes.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Convolutional Neural Network (CNN) for processing game frames  
 - Experience Replay Memory for stable learning  
@@ -18,5 +18,5 @@ The agent learns by watching the game frames, taking actions, collecting rewards
 
 ---
 
-## 📂 Project Structure
+
 
